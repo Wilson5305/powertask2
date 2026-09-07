@@ -27,11 +27,6 @@ The main objectives of this project are:
 
 ---
 
-## 🖼️ Dashboard Preview
-
-![Superstore Sales Analysis Dashboard](dashboard.png)
-
----
 
 ## 📊 Dashboard Overview
 
@@ -172,21 +167,13 @@ When a filter is selected, the dashboard visuals and KPI values dynamically upda
 
 ---
 
-## 🔄 Data Analysis Workflow
-
-The project follows the following data analysis process:
-
-```text
-Superstore Dataset
-        ↓
-Data Cleaning
-        ↓
-Data Transformation
-        ↓
-Data Modeling
-        ↓
-DAX Calculations
-        ↓
+### 🛠️ Tools & Technologies
+Tool / Technology	Purpose
+Microsoft Power BI	Dashboard development and visualization
+Power Query	Data cleaning and transformation
+DAX	Measures and calculations
+Superstore Dataset	Source dataset
+GitHub	Project documentation and version control
 Data Visualization
         ↓
 Interactive Power BI Dashboard
