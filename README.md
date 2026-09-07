@@ -1,6 +1,6 @@
 # 📊 Superstore Sales Analysis
 
-📌 Project Overview
+## 📌 Project Overview
 
 The Superstore Sales Analysis project is an interactive Power BI dashboard developed using the Superstore dataset.
 
@@ -8,7 +8,7 @@ The dashboard provides a clear view of business performance by analyzing sales, 
 
 The main objective of this project is to convert raw sales data into meaningful business insights using interactive data visualizations and filters.
 
-🎯 Objectives
+### 🎯 Objectives
 
 The main objectives of this project are:
 
@@ -32,15 +32,11 @@ Provide interactive filtering using Power BI slicers.
 
 Create a simple and visually appealing business intelligence dashboard.
 
-🖼️ Dashboard Preview
-
-
-
-📊 Dashboard Overview
+### 📊 Dashboard Overview
 
 The dashboard contains multiple Key Performance Indicators (KPIs) and visualizations to provide an overall view of Superstore business performance.
 
-🔹 Key Performance Indicators
+### 🔹 Key Performance Indicators
 
 KPI
 
@@ -66,7 +62,7 @@ The displayed values represent the current dashboard view. KPI values may change
 
 📈 Visualizations
 
-1. 📅 Total Profit by Month
+### 1. 📅 Total Profit by Month
 
 A horizontal bar chart is used to analyze total profit by month.
 
@@ -82,7 +78,7 @@ Understand monthly profit patterns.
 
 Compare profitability across different months.
 
-2. 🌎 Total Quantity by Region
+### 2. 🌎 Total Quantity by Region
 
 A donut chart represents the distribution of total quantity across different regions.
 
@@ -98,7 +94,7 @@ South
 
 This visualization helps compare the quantity of products sold across different regions.
 
-3. 🏷️ Total Quantity by Category
+### 3. 🏷️ Total Quantity by Category
 
 A donut chart displays the total quantity distribution across the major product categories.
 
@@ -112,7 +108,7 @@ Technology
 
 This helps understand which product categories contribute the most to total quantity.
 
-4. 📈 Sum of Profit by Sub-Category
+### 4. 📈 Sum of Profit by Sub-Category
 
 A line chart represents the sum of profit by product sub-category.
 
@@ -126,7 +122,7 @@ Lower-profit sub-categories.
 
 Differences in profitability between products.
 
-5. 💵 Sum of Sales by Sub-Category
+### 5. 💵 Sum of Sales by Sub-Category
 
 A column chart displays the sum of sales by sub-category.
 
@@ -168,17 +164,17 @@ Fasteners
 
 This visualization helps identify the sub-categories contributing the most to overall sales.
 
-6. 🗺️ Total Sales by State/Province
+### 6. 🗺️ Total Sales by State/Province
 
 A map visualization represents total sales by state/province across the United States.
 
 The map provides geographical insights into sales performance and helps identify areas with higher sales activity.
 
-🎛️ Interactive Filters
+## 🎛️ Interactive Filters
 
 The dashboard provides interactive slicers for:
 
-🔹 Region
+### 🔹 Region
 
 Users can select a specific region or view all regions.
 
@@ -194,13 +190,13 @@ South
 
 All
 
-🔹 Sub-Category
+### 🔹 Sub-Category
 
 Users can select a particular product sub-category or view all sub-categories.
 
 When a filter is selected, the dashboard visuals and KPI values dynamically update based on the selected data.
 
-🔄 Data Analysis Workflow
+### 🔄 Data Analysis Workflow
 
 The project follows the following data analysis process:
 
@@ -220,7 +216,7 @@ Interactive Power BI Dashboard
         ↓
 Business Insights
 
-🛠️ Tools & Technologies
+### 🛠️ Tools & Technologies
 
 Tool / Technology
 
@@ -246,7 +242,7 @@ GitHub
 
 Project documentation and version control
 
-📌 Key Insights
+## 📌 Key Insights
 
 The dashboard helps users understand:
 
@@ -268,7 +264,7 @@ Geographical distribution of sales across U.S. states.
 
 Business performance based on selected filters.
 
-📂 Project Structure
+## 📂 Project Structure
 
 Superstore-Sales-Analysis/
 │
@@ -276,7 +272,7 @@ Superstore-Sales-Analysis/
 ├── 🖼️ dashboard.png
 └── 📄 README.md
 
-🚀 How to Use
+## 🚀 How to Use
 
 Clone or download this repository.
 
@@ -290,7 +286,7 @@ Use the Region and Sub-Category slicers.
 
 Interact with the charts to analyze the sales data.
 
-📚 Dataset
+### 📚 Dataset
 
 The project uses the Superstore dataset, which contains sales-related information such as:
 
@@ -316,11 +312,11 @@ Category
 
 Sub-Category
 
-💡 Project Type
+## 💡 Project Type
 
 Data Analytics | Business Intelligence | Power BI | Data Visualization
 
-🏁 Conclusion
+# 🏁 Conclusion
 
 The Superstore Sales Analysis project demonstrates how Power BI can be used to transform raw business data into an interactive and meaningful dashboard.
 
